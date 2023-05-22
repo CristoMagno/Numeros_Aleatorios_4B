@@ -1,0 +1,49 @@
+body{
+    background: rgb(0,249,255);
+background: linear-gradient(239deg, rgba(0,249,255,1) 0%,
+ rgba(64,96,219,1) 35%, rgba(172,6,226,1) 77%, rgba(168,4,90,1) 100%);
+}
+table{
+    border: black 1px solid;
+}
+td, th{
+    border: black 1px solid;
+}
+.div-principal{
+    margin: 5%;
+    background: rgb(5,82,84);
+background: linear-gradient(285deg, rgba(5,82,84,1) 0%,
+ rgba(8,23,80,1) 35%, rgba(71,4,93,1) 77%, rgba(71,8,41,1) 100%);
+    color: aliceblue;
+}
+.div-principal{
+    text-align: center;
+    border-radius: 20px;
+}
+.boton{
+    border-radius: 5px;
+    width: 50%;
+    margin-top: 0.5vh;
+    margin-bottom: 0.5vh;
+    background: rgb(131,58,180);
+background: linear-gradient(184deg, 
+rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+a{
+    color: white;
+    margin: 50px;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: dotted;
+    font-size: 20.5px;
+}
+h4{
+    font-size: xx-large;
+}
+h1{
+    color: aliceblue;
+    margin-top: 5%;
+    text-align: center;
+}
